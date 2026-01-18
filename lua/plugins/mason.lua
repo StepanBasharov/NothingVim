@@ -5,6 +5,7 @@ return {
       "stylua",
       "shellcheck",
       "shfmt",
+      "delve",
       "flake8",
       "gopls",
       "gofumpt",
