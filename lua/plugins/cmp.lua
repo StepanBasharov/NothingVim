@@ -50,6 +50,7 @@ return {
           lsp = {
             name = "LSP",
             module = "blink.cmp.sources.lsp",
+            score_offset = 1000,
           },
           path = {
             name = "Path",
@@ -62,7 +63,7 @@ return {
           snippets = {
             name = "Snippets",
             module = "blink.cmp.sources.snippets",
-            score_offset = 100,
+            score_offset = -50,
           },
         },
       },
