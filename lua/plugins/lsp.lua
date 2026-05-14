@@ -126,6 +126,8 @@ return {
           },
         },
         stylua = { enabled = false },
+        dockerls = {},
+        docker_compose_language_service = {},
         lua_ls = {
           -- mason = false, -- set to false if you don't want this server to be installed with mason
           -- Use this to add any additional keymaps

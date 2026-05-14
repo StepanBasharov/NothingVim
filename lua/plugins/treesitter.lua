@@ -3,6 +3,7 @@ return {
   opts = {
     ensure_installed = {
       "json",
+      "dockerfile",
       "lua",
       "markdown",
       "markdown_inline",

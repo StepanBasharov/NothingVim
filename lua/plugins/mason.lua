@@ -9,6 +9,7 @@ return {
       "flake8",
       "gopls",
       "gofumpt",
+      "hadolint",
       "golangci-lint",
       "ruff",
       "black",
